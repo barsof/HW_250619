@@ -1,13 +1,13 @@
 class HW_250619():
 
 
-    def namer(self, name):
-        self.name = name
-        return name
+    def __init__ namer(self, name):
+		self.name = name
+		return name
+	
 
-
-    def avg_sum(self,*args):
-        return sum(args)/len(args)
+    def __init__ avg_sum(self,*args):
+		return sum(args)/len(args)
 
 
 a = HW_250619()
